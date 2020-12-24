@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Textos da tela de login -->
+    <string name="app_name">CLM Aplication</string>
+    <string name="login_button">Entrar</string>
+    <string name="forgot_password_link"> Esqueceu a senha, clique aqui!</string>
+    <string name="register_link"> Não tem cadastro? Cadastre-se aqui!</string>
+    <string name="email_hint"> E-mail</string>
+    <string name="password_hint">Password</string>]
+    <string name="email_required">O email é obrigatório</string>
+    <string name="pass_required">A senha é obrigatória</string>
+    <string name="pass_6_char">A senha deve ser maior que 6 caracteres</string>
+    <string name="login_error">Não foi possível efetuar o login. Deu pau</string>
+
+
+    <!-- Textos da tela de esqueci a senha -->
+
+
+    <!-- Textos da tela de ecadastro -->
+    <string name="register_button">Cadastrar</string>
+    <string name="register_back_button">Voltar</string>
+    <string name="password_hint2">Repeat Password </string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942887276384",
+    "project_id": "meuapp-72d5e",
+    "storage_bucket": "meuapp-72d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942887276384:android:2d20d88bc66db2d89e9805",
+        "android_client_info": {
+          "package_name": "com.clml.clmaplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942887276384-a5godiqb4v0u0rod1ujthmcajeq76mbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ayPBRs-Q60rNoAXq2p0cYQWzr5JMSbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942887276384-a5godiqb4v0u0rod1ujthmcajeq76mbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
