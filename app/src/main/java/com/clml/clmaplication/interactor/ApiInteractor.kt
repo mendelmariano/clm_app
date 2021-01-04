@@ -7,6 +7,6 @@ class ApiInteractor {
     private val repo = ApiRepositoy()
 
     fun chamaAPI(){
-        repo.chamarAPI()
+        //repo.chamarAPI()
     }
 }
