@@ -1,0 +1,16 @@
+com/clml/clmaplication/DataBindingTriggerClass.java
+ com.clml.clmaplication.DataBindingTriggerClass
+com/clml/clmaplication/DataBinderMapperImpl.java
+ com.clml.clmaplication.DataBinderMapperImpl
+ com.clml.clmaplication.DataBinderMapperImpl$InnerBrLookup
+ com.clml.clmaplication.DataBinderMapperImpl$InnerLayoutIdLookup
+com/clml/clmaplication/BuildConfig.java
+ com.clml.clmaplication.BuildConfig
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/clml/clmaplication/BR.java
+ com.clml.clmaplication.BR
