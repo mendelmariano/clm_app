@@ -31,7 +31,7 @@ class ListaInicial : Fragment() {
     }
 
     fun chamarAPI(){
-
+        //TODO: CHAMAR A API WEB ATRAVES DA VIEWMODEL
     }
 
 

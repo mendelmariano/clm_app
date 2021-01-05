@@ -6,7 +6,8 @@ class ApiInteractor {
 
     private val repo = ApiRepositoy()
 
-    fun chamaAPI(){
-        //repo.chamarAPI()
+    suspend fun chamaAPI(){
+        repo.chamarAPI()
+
     }
 }

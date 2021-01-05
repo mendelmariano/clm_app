@@ -13,7 +13,7 @@ class ApiViewModel(val app: Application): AndroidViewModel(app) , CoroutineScope
 
     private val interactor = ApiInteractor()
 
-    fun chamarAPI(){
+    suspend fun chamarAPI(){
         interactor.chamaAPI()
     }
 
