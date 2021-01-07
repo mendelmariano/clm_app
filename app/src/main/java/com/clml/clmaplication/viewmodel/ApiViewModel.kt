@@ -17,7 +17,7 @@ class ApiViewModel(val app: Application): AndroidViewModel(app) , CoroutineScope
     private val interactor = ApiInteractor()
     val resultadoParaTela =  MutableLiveData<List<Tarefa>>()
 
-    suspend fun chamarAPI(){
+     fun chamarAPI(){
         launch {
             val listaTarefas = interactor.chamaAPI()
             resultadoParaTela.value = listaTarefas

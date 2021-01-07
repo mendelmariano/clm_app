@@ -56,6 +56,10 @@
         "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_de_tarefa.xml.flat",
+        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\item_de_tarefa.xml"
+    },
+    {
         "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lista_inicial.xml.flat",
         "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\fragment_lista_inicial.xml"
     },

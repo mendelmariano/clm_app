@@ -7,6 +7,7 @@ import androidx.databinding.DataBinderMapper;
 import androidx.databinding.DataBindingComponent;
 import androidx.databinding.ViewDataBinding;
 import com.clml.clmaplication.databinding.FragmentListaInicialBindingImpl;
+import com.clml.clmaplication.databinding.ItemDeTarefaBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -20,10 +21,13 @@ import java.util.List;
 public class DataBinderMapperImpl extends DataBinderMapper {
   private static final int LAYOUT_FRAGMENTLISTAINICIAL = 1;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(1);
+  private static final int LAYOUT_ITEMDETAREFA = 2;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(2);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.clml.clmaplication.R.layout.fragment_lista_inicial, LAYOUT_FRAGMENTLISTAINICIAL);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.clml.clmaplication.R.layout.item_de_tarefa, LAYOUT_ITEMDETAREFA);
   }
 
   @Override
@@ -40,6 +44,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new FragmentListaInicialBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for fragment_lista_inicial is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ITEMDETAREFA: {
+          if ("layout/item_de_tarefa_0".equals(tag)) {
+            return new ItemDeTarefaBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for item_de_tarefa is invalid. Received: " + tag);
         }
       }
     }
@@ -86,18 +96,21 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerBrLookup {
-    static final SparseArray<String> sKeys = new SparseArray<String>(1);
+    static final SparseArray<String> sKeys = new SparseArray<String>(3);
 
     static {
+      sKeys.put(1, "Tarefa");
       sKeys.put(0, "_all");
+      sKeys.put(2, "meuFragmento");
     }
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(1);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(2);
 
     static {
       sKeys.put("layout/fragment_lista_inicial_0", com.clml.clmaplication.R.layout.fragment_lista_inicial);
+      sKeys.put("layout/item_de_tarefa_0", com.clml.clmaplication.R.layout.item_de_tarefa);
     }
   }
 }

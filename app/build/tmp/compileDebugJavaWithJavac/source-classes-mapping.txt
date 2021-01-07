@@ -1,5 +1,7 @@
 com/clml/clmaplication/DataBindingTriggerClass.java
  com.clml.clmaplication.DataBindingTriggerClass
+com/clml/clmaplication/databinding/ItemDeTarefaBindingImpl.java
+ com.clml.clmaplication.databinding.ItemDeTarefaBindingImpl
 com/clml/clmaplication/DataBinderMapperImpl.java
  com.clml.clmaplication.DataBinderMapperImpl
  com.clml.clmaplication.DataBinderMapperImpl$InnerBrLookup
@@ -11,13 +13,15 @@ com/clml/clmaplication/BuildConfig.java
  com.clml.clmaplication.BuildConfig
 androidx/databinding/DataBinderMapperImpl.java
  androidx.databinding.DataBinderMapperImpl
+com/clml/clmaplication/databinding/ItemDeTarefaBinding.java
+ com.clml.clmaplication.databinding.ItemDeTarefaBinding
 androidx/databinding/library/baseAdapters/BR.java
  androidx.databinding.library.baseAdapters.BR
-com/clml/clmaplication/BR.java
- com.clml.clmaplication.BR
-androidx/databinding/DataBindingComponent.java
- androidx.databinding.DataBindingComponent
 com/clml/clmaplication/databinding/FragmentListaInicialBinding.java
  com.clml.clmaplication.databinding.FragmentListaInicialBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
 com/clml/clmaplication/databinding/FragmentListaInicialBindingImpl.java
  com.clml.clmaplication.databinding.FragmentListaInicialBindingImpl
+com/clml/clmaplication/BR.java
+ com.clml.clmaplication.BR

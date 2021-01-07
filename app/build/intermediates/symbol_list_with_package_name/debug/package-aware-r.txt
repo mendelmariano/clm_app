@@ -1777,6 +1777,7 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id confirm_button
+id constraintLayout
 id container
 id content
 id contentPanel
@@ -1860,6 +1861,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id info
 id invisible
 id italic
@@ -1955,6 +1957,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rvTarefas
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -2053,13 +2056,16 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvCompleted
 id tvForgotPassword
 id tvRegister
+id tvTitle
 id unchecked
 id uniform
 id unlabeled
 id up
 id useLogo
+id view
 id view_offset_helper
 id visible
 id visible_removing_fragment_view_tag
@@ -2152,6 +2158,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_lista_inicial
+layout item_de_tarefa
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
