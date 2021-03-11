@@ -1754,6 +1754,7 @@ id bounce
 id btBack
 id btChamarAPI
 id btLogin
+id btPassConfirm
 id btRegister
 id buttonPanel
 id cache_measures
@@ -1821,8 +1822,10 @@ id end
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
+id etConfirmNewPass
 id etEmail
 id etEmailRegister
+id etNewPass
 id etPassword
 id etPasswordConfirmRegister
 id etPasswordRegister
@@ -1868,6 +1871,7 @@ id italic
 id item_touch_helper_previous_elevation
 id ivLogo
 id iv_logo_register
+id iv_logo_register4
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -2012,6 +2016,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id switch1
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -2137,6 +2142,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_forgot_password
 layout activity_home
 layout activity_login
 layout activity_main

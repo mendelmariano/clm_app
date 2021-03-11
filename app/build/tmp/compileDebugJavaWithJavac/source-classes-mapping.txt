@@ -1,22 +1,30 @@
-com/clml/clmaplication/DataBindingTriggerClass.java
- com.clml.clmaplication.DataBindingTriggerClass
-com/clml/clmaplication/databinding/ItemDeTarefaBindingImpl.java
- com.clml.clmaplication.databinding.ItemDeTarefaBindingImpl
+com/clml/clmaplication/generated/callback/OnClickListener.java
+ com.clml.clmaplication.generated.callback.OnClickListener
+ com.clml.clmaplication.generated.callback.OnClickListener$Listener
 com/clml/clmaplication/DataBinderMapperImpl.java
  com.clml.clmaplication.DataBinderMapperImpl
  com.clml.clmaplication.DataBinderMapperImpl$InnerBrLookup
  com.clml.clmaplication.DataBinderMapperImpl$InnerLayoutIdLookup
-com/clml/clmaplication/generated/callback/OnClickListener.java
- com.clml.clmaplication.generated.callback.OnClickListener
- com.clml.clmaplication.generated.callback.OnClickListener$Listener
 com/clml/clmaplication/BuildConfig.java
  com.clml.clmaplication.BuildConfig
 androidx/databinding/DataBinderMapperImpl.java
  androidx.databinding.DataBinderMapperImpl
-com/clml/clmaplication/databinding/ItemDeTarefaBinding.java
- com.clml.clmaplication.databinding.ItemDeTarefaBinding
 androidx/databinding/library/baseAdapters/BR.java
  androidx.databinding.library.baseAdapters.BR
+com/clml/clmaplication/DataBindingTriggerClass.java
+ com.clml.clmaplication.DataBindingTriggerClass
+com/clml/clmaplication/view/activity/PersonDao_Impl.java
+ com.clml.clmaplication.view.activity.PersonDao_Impl
+ com.clml.clmaplication.view.activity.PersonDao_Impl$1
+ com.clml.clmaplication.view.activity.PersonDao_Impl$2
+ com.clml.clmaplication.view.activity.PersonDao_Impl$3
+com/clml/clmaplication/databinding/ItemDeTarefaBindingImpl.java
+ com.clml.clmaplication.databinding.ItemDeTarefaBindingImpl
+com/clml/clmaplication/view/activity/AppDatabase_Impl.java
+ com.clml.clmaplication.view.activity.AppDatabase_Impl
+ com.clml.clmaplication.view.activity.AppDatabase_Impl$1
+com/clml/clmaplication/databinding/ItemDeTarefaBinding.java
+ com.clml.clmaplication.databinding.ItemDeTarefaBinding
 com/clml/clmaplication/databinding/FragmentListaInicialBinding.java
  com.clml.clmaplication.databinding.FragmentListaInicialBinding
 androidx/databinding/DataBindingComponent.java

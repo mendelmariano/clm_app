@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-2\\files-2.1\\149e18e44fa746197e35426273af60eb\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "source": "/home/luisa/.gradle/caches/transforms-2/files-2.1/149e18e44fa746197e35426273af60eb/appcompat-1.2.0/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

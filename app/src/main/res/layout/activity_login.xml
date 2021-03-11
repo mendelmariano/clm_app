@@ -104,4 +104,16 @@
         android:orientation="horizontal"
         app:layout_constraintGuide_percent="0.5" />
 
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="95dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="230dp"
+        android:layout_marginBottom="4dp"
+        android:text="Dark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.475"
+        app:layout_constraintStart_toStartOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

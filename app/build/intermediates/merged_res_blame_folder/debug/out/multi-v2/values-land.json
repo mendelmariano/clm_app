@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-2\\files-2.1\\e50a3f5710cd726d79f7300cd50ef5a3\\material-1.2.1\\res\\values-land\\values-land.xml",
+                    "source": "/home/luisa/.gradle/caches/transforms-2/files-2.1/e50a3f5710cd726d79f7300cd50ef5a3/material-1.2.1/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-2\\files-2.1\\149e18e44fa746197e35426273af60eb\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "source": "/home/luisa/.gradle/caches/transforms-2/files-2.1/149e18e44fa746197e35426273af60eb/appcompat-1.2.0/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

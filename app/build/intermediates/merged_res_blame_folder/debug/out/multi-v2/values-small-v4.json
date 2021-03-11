@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "outputFile": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-2\\files-2.1\\e50a3f5710cd726d79f7300cd50ef5a3\\material-1.2.1\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "/home/luisa/.gradle/caches/transforms-2/files-2.1/e50a3f5710cd726d79f7300cd50ef5a3/material-1.2.1/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

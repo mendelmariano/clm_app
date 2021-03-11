@@ -1,90 +1,94 @@
 [
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/drawable_charizard_logo.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/drawable/charizard_logo.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/layout_item_de_tarefa.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/layout/item_de_tarefa.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_charizard_logo.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\drawable\\charizard_logo.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/layout/activity_home.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\navigation_main.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\navigation\\main.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/layout/activity_register.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_de_tarefa.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\item_de_tarefa.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lista_inicial.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\fragment_lista_inicial.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/layout_fragment_lista_inicial.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/layout/fragment_lista_inicial.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/navigation_main.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/navigation/main.xml"
+    },
+    {
+        "merged": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/build/intermediates/res/merged/debug/layout_activity_forgot_password.xml.flat",
+        "source": "/home/luisa/Documents/Pessoal/Iesb/Android/Android 2/clm_app/app/src/main/res/layout/activity_forgot_password.xml"
     }
 ]
