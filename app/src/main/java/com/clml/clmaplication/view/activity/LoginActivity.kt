@@ -79,13 +79,11 @@ class LoginActivity : AppCompatActivity() {
     }
 
     fun forgotPassword(){
-        val forgotPassword = Intent(this, ForgotPassword::class.java)
-        startActivity(forgotPassword)
+        val intentPass = Intent(this, ForgotPassword::class.java)
+        startActivity(intentPass)
     }
 
      fun register(){
-
-
         val intentRegister = Intent(this, RegisterActivity::class.java)
         startActivity(intentRegister)
 

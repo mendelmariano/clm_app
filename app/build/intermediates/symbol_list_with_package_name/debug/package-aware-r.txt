@@ -1752,6 +1752,7 @@ id blocking
 id bottom
 id bounce
 id btBack
+id btBack2
 id btChamarAPI
 id btLogin
 id btPassConfirm
@@ -1822,10 +1823,9 @@ id end
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
-id etConfirmNewPass
 id etEmail
+id etEmailForgot
 id etEmailRegister
-id etNewPass
 id etPassword
 id etPasswordConfirmRegister
 id etPasswordRegister
