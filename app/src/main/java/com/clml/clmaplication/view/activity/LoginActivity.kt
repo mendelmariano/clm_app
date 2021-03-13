@@ -12,13 +12,13 @@ import com.clml.clmaplication.R
 import com.clml.clmaplication.domain.login.LoginData
 import com.clml.clmaplication.domain.login.LoginResult
 import com.clml.clmaplication.viewmodel.LoginViewModel
-import com.clml.clmaplication.view.activity.RegisterActivity
 import kotlinx.android.synthetic.main.activity_login.*
-import kotlinx.android.synthetic.main.activity_register.*
 import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.*
 
 class LoginActivity : AppCompatActivity() {
+
+//    private lateinit var database: AppDatabase
+//    private lateinit var dao: PersonDao
 
     lateinit var viewmodel: LoginViewModel
 
@@ -27,11 +27,18 @@ class LoginActivity : AppCompatActivity() {
         setContentView(R.layout.activity_login)
 
         val btnTest = findViewById<Switch>(R.id.switch1)
+//
+//        database = Room
+//            .databaseBuilder(applicationContext, AppDatabase::class.java, "base")
+//            .build()
+//
+//        dao = database.getPersonDao()
 
 
         btLogin.setOnClickListener { login() }
         tvForgotPassword.setOnClickListener { forgotPassword() }
         tvRegister.setOnClickListener { register() }
+        btChatbot.setOnClickListener { chatBot() }
 
         btnTest.setOnCheckedChangeListener { _, isChecked ->
             if (btnTest.isChecked) {
@@ -79,13 +86,59 @@ class LoginActivity : AppCompatActivity() {
     }
 
     fun forgotPassword(){
-        val intentPass = Intent(this, ForgotPassword::class.java)
+        val intentPass = Intent(this, ForgotPasswordActivity::class.java)
         startActivity(intentPass)
     }
 
-     fun register(){
+     private fun register(){
+//         GlobalScope.launch {
+//             val p = Person(
+//                 email = etEmail.text.toString(),
+//                 password = etPassword.text.toString()
+//             )
+//
+//             dao.insertPerson(p)
+//         }
+
         val intentRegister = Intent(this, RegisterActivity::class.java)
         startActivity(intentRegister)
 
     }
+
+
+    private fun chatBot(){
+        val intentChatBot = Intent(this, ChatBotActivity::class.java);
+        startActivity(intentChatBot);
+    }
 }
+///* Entidade Pessoa do banco de dados*/
+//
+//@Entity
+//data class Person(
+//    @PrimaryKey(autoGenerate = true)
+//    var id: Int? = null,
+//
+//    var email: String = "",
+//    var password: String = ""
+//)
+//
+///* Data Access Object(DAD) de Pessoa*/
+//
+//@Dao
+//interface PersonDao {
+//
+//    @Insert(onConflict = OnConflictStrategy.IGNORE)
+//    suspend fun insertPerson(p: Person)
+//
+//    @Update
+//    suspend fun updatePerson(p: Person)
+//
+//}
+//
+///*Banco de dados do aplicativo*/
+//
+//@Database(entities = [Person::class], version = 1)
+//abstract class AppDatabase: RoomDatabase() {
+//    abstract fun getPersonDao(): PersonDao
+//}
+

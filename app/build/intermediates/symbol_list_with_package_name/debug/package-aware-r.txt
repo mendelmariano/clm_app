@@ -1754,9 +1754,11 @@ id bounce
 id btBack
 id btBack2
 id btChamarAPI
+id btChatbot
 id btLogin
 id btPassConfirm
 id btRegister
+id btSend
 id buttonPanel
 id cache_measures
 id cancel_action
@@ -2063,7 +2065,9 @@ id transition_transform
 id triangle
 id tvCompleted
 id tvForgotPassword
+id tvQuestion
 id tvRegister
+id tvResponse
 id tvTitle
 id unchecked
 id uniform
@@ -2142,6 +2146,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_chat_bot
 layout activity_forgot_password
 layout activity_home
 layout activity_login
