@@ -15,7 +15,8 @@
         android:text="O que deseja saber?"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="192dp" />
+        tools:layout_editor_absoluteY="192dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/btSend"

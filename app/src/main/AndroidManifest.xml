@@ -11,7 +11,11 @@
         android:theme="@style/Theme.CLMAplication">
         <activity android:name=".view.activity.HomeActivity"></activity>
         <activity android:name=".view.activity.RegisterActivity" />
-        <activity android:name=".view.activity.LoginActivity">
+        <activity android:name=".view.activity.ForgotPasswordActivity"/>
+        <activity android:name=".view.activity.ChatBotActivity"/>
+        <activity android:name=".view.activity.LoginActivity" >
+
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

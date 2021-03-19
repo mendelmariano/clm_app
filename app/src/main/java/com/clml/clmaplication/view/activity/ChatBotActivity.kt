@@ -30,15 +30,15 @@ class ChatBotActivity: AppCompatActivity() {
 
     }
     private fun send(){
-//        GlobalScope.launch(Dispatchers.Main){
-//            val question = tvQuestion.text.toString()
-//            val message = Message(question, "", "1")
-//            val response = dialogFlow.sendMessageAsync(message)
-//            if (response.isNotEmpty()) {
-//                tvResponse.text = response[0].queryResult.fulfillmentText
-//                tvQuestion.setText("")
-//            }
-//        }
+        GlobalScope.launch(Dispatchers.Main){
+            val question = tvQuestion.text.toString()
+            val message = Message(question, "", "123")
+            val response = dialogFlow.sendMessageAsync(message)
+            if (response.isNotEmpty()) {
+                tvResponse.text = response[0].queryResult.fulfillmentText
+                tvQuestion.setText("")
+            }
+        }
 
     }
     private fun createRetrofit(): Retrofit {
@@ -49,7 +49,7 @@ class ChatBotActivity: AppCompatActivity() {
 
         return Retrofit.Builder()
             .client(client)
-            .baseUrl("")
+            .baseUrl("https://projetoiesb.herokuapp.com/api/")
             .addConverterFactory(GsonConverterFactory.create())
             .build()
     }

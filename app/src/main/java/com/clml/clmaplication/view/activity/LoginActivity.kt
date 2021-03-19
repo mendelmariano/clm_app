@@ -7,13 +7,11 @@ import android.widget.Switch
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.lifecycle.observe
-import androidx.room.*
 import com.clml.clmaplication.R
 import com.clml.clmaplication.domain.login.LoginData
 import com.clml.clmaplication.domain.login.LoginResult
 import com.clml.clmaplication.viewmodel.LoginViewModel
 import kotlinx.android.synthetic.main.activity_login.*
-import kotlinx.coroutines.GlobalScope
 
 class LoginActivity : AppCompatActivity() {
 

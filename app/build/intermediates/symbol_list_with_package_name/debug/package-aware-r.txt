@@ -1871,9 +1871,8 @@ id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
-id ivLogo
+id ivLogoPassword
 id iv_logo_register
-id iv_logo_register4
 id jumpToEnd
 id jumpToStart
 id labeled

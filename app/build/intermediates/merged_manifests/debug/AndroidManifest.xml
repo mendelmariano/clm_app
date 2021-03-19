@@ -24,6 +24,8 @@
         android:theme="@style/Theme.CLMAplication" >
         <activity android:name="com.clml.clmaplication.view.activity.HomeActivity" />
         <activity android:name="com.clml.clmaplication.view.activity.RegisterActivity" />
+        <activity android:name="com.clml.clmaplication.view.activity.ForgotPasswordActivity" />
+        <activity android:name="com.clml.clmaplication.view.activity.ChatBotActivity" />
         <activity android:name="com.clml.clmaplication.view.activity.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,12 +33,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <service
-            android:name="androidx.room.MultiInstanceInvalidationService"
-            android:directBootAware="true"
-            android:exported="false" />
-
         <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"
             android:excludeFromRecents="true"
@@ -114,6 +110,11 @@
             android:authorities="com.clml.clmaplication.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
     </application>
 
 </manifest>
