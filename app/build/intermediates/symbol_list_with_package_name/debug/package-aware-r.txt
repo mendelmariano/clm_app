@@ -1753,9 +1753,12 @@ id bottom
 id bounce
 id btBack
 id btBack2
+id btCarregaPerfil
 id btChamarAPI
 id btChatbot
+id btEditProfile
 id btLogin
+id btOpenProfile
 id btPassConfirm
 id btRegister
 id btSend
@@ -1953,6 +1956,8 @@ id position
 id postLayout
 id progress_circular
 id progress_horizontal
+id ptAddressProfile
+id ptNameProfile
 id radio
 id ratio
 id rectangles
@@ -2062,12 +2067,15 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvAddressProfile
 id tvCompleted
 id tvForgotPassword
+id tvNameProfile
 id tvQuestion
 id tvRegister
 id tvResponse
 id tvTitle
+id tvTittleProfile
 id unchecked
 id uniform
 id unlabeled
@@ -2150,6 +2158,7 @@ layout activity_forgot_password
 layout activity_home
 layout activity_login
 layout activity_main
+layout activity_my_profile
 layout activity_register
 layout custom_dialog
 layout design_bottom_navigation_item

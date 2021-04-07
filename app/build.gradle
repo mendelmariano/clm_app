@@ -1,8 +1,9 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
-    id 'kotlin-kapt'
     id 'kotlin-android-extensions'
+    id 'kotlin-kapt'
+
 }
 
 android {
@@ -78,6 +79,9 @@ dependencies {
     implementation 'com.google.firebase:firebase-auth'
     annotationProcessor 'androidx.room:room-compiler:2.2.6'
 
+    //Android ROOM
+
+    implementation 'androidx.room:room-runtime:2.2.6'
     implementation 'androidx.room:room-ktx:2.2.6'
     kapt 'androidx.room:room-compiler:2.2.6'
 }

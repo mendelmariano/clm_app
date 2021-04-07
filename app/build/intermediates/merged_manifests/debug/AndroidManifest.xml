@@ -22,6 +22,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.CLMAplication" >
+        <activity android:name="com.clml.clmaplication.view.activity.MyProfile" />
         <activity android:name="com.clml.clmaplication.view.activity.HomeActivity" />
         <activity android:name="com.clml.clmaplication.view.activity.RegisterActivity" />
         <activity android:name="com.clml.clmaplication.view.activity.ForgotPasswordActivity" />
@@ -88,6 +89,10 @@
                 android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
@@ -110,11 +115,6 @@
             android:authorities="com.clml.clmaplication.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
-
-        <service
-            android:name="androidx.room.MultiInstanceInvalidationService"
-            android:directBootAware="true"
-            android:exported="false" />
     </application>
 
 </manifest>

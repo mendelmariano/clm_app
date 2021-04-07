@@ -8,12 +8,12 @@
         "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\navigation_main.xml.flat",
@@ -46,6 +46,10 @@
     {
         "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "E:\\POS\\Android\\projeto\\clm_app\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
     },
     {
         "merged": "E:\\POS\\Android\\projeto\\clm_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
