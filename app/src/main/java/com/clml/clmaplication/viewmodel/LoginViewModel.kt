@@ -7,6 +7,7 @@ import com.clml.clmaplication.R
 import com.clml.clmaplication.domain.login.LoginData
 import com.clml.clmaplication.domain.login.LoginResult
 import com.clml.clmaplication.interactor.LoginInteractor
+import dagger.hilt.android.HiltAndroidApp
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -50,3 +51,4 @@ class LoginViewModel(val app: Application) : AndroidViewModel(app), CoroutineSco
 
 
 }
+

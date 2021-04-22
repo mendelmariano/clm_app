@@ -35,7 +35,7 @@ class MyProfile : AppCompatActivity() {
 
         btEditProfile.setOnClickListener { insertProfile() }
         btCarregaPerfil.setOnClickListener { searchProfile() }
-        searchProfile()
+        //searchProfile()
     }
 
     private fun insertProfile(){
