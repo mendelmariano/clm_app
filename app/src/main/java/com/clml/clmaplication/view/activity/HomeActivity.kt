@@ -13,11 +13,17 @@ class HomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_home)
 
         btOpenProfile.setOnClickListener { profile() }
+
+        btMaps.setOnClickListener { Maps() }
     }
 
 
     private fun profile(){
         val intentProfile = Intent(this, MyProfile::class.java)
         startActivity(intentProfile)
+    }
+    private fun Maps(){
+        val intentMapsActivity = Intent(this, MapsActivity::class.java)
+        startActivity(intentMapsActivity)
     }
 }
